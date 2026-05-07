@@ -19,4 +19,6 @@
   <Project Path="Ex018/Ex018.csproj" />
   <Project Path="EX019/EX019.csproj" />
   <Project Path="Ex020/Ex020.csproj" />
+  <Project Path="Ex021/Ex021.csproj" />
+  <Project Path="Ex022/Ex022.csproj" />
 </Solution>

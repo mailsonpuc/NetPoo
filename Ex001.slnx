@@ -1,0 +1,22 @@
+<Solution>
+  <Project Path="Ex001/Ex001.csproj" />
+  <Project Path="Ex002/Ex002.csproj" />
+  <Project Path="Ex003/Ex003.csproj" />
+  <Project Path="Ex004/Ex004.csproj" />
+  <Project Path="Ex005/Ex005.csproj" />
+  <Project Path="Ex006/Ex006.csproj" />
+  <Project Path="Ex007\Ex007.csproj" />
+  <Project Path="Ex008/Ex008.csproj" />
+  <Project Path="Ex009/Ex009.csproj" />
+  <Project Path="Ex010/Ex010.csproj" />
+  <Project Path="Ex011/Ex011.csproj" />
+  <Project Path="Ex012/Ex012.csproj" />
+  <Project Path="Ex013/Ex013.csproj" />
+  <Project Path="Ex014/Ex014.csproj" />
+  <Project Path="Ex015/Ex015.csproj" />
+  <Project Path="Ex016/Ex016.csproj" />
+  <Project Path="Ex017/Ex017.csproj" />
+  <Project Path="Ex018/Ex018.csproj" />
+  <Project Path="EX019/EX019.csproj" />
+  <Project Path="Ex020/Ex020.csproj" />
+</Solution>

@@ -27,4 +27,7 @@
   <Project Path="Ex026/Ex026.csproj" />
   <Project Path="Ex027/Ex027.csproj" />
   <Project Path="Ex028/Ex028.csproj" />
+  <Project Path="Ex029/Ex029.csproj" />
+  <Project Path="Ex030/Ex030.csproj" />
+  <Project Path="Ex031/Ex031.csproj" />
 </Solution>

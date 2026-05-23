@@ -30,4 +30,8 @@
   <Project Path="Ex029/Ex029.csproj" />
   <Project Path="Ex030/Ex030.csproj" />
   <Project Path="Ex031/Ex031.csproj" />
+  <Project Path="Ex032/Ex032.csproj" />
+  <Project Path="Ex033/Ex033.csproj" />
+  <Project Path="Ex034/Ex034.csproj" />
+  <Project Path="Ex035/Ex035.csproj" />
 </Solution>
